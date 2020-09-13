@@ -1,11 +1,11 @@
-# Programming Skills for Business Analytics
+# Programming and Business Analytics
 
 ## General Information
 
-- Pre-requisites: Technically none, however we utilize the following applications in classroom:
+- Pre-requisites: Technically none, however we will use the following applications in classroom:
     - A [GitHub](https://github.com/) account
-    - A [Discord](https://discord.com/) account
     - A [Google](https://www.google.com/) account
+    - A [Discord](https://discord.com/) account
 - Institute: National Taiwan Normal University
 - Department: Business Administration
 - Semester: Fall, 2020
@@ -47,20 +47,20 @@ We will probably rely on Python's `random` module to draw if there are too many 
 |2020-09-14|[Introduction](https://yaojenkuo.io/ntnu-fall-2020/00-introduction.slides.html)||
 |2020-09-21|[Getting Started with Python]()||
 |2020-09-28|[Data Structures and Iterations]()||
-|2020-10-05|Revision Week||
+|2020-10-05|Reading Period||
 |2020-10-12|[Functions]()|[Homework 1]() Due|
 |2020-10-19|[Classes]()||
 |2020-10-26|[Modules and Packages]()||
-|2020-11-02|Revision Week||
+|2020-11-02|Reading Period||
 |2020-11-09|[Midterm]()|[Homework 2]() Due|
 |2020-11-16|[Importing Data with Python]()||
 |2020-11-23|[Manipulating Data with Python]()||
 |2020-11-30|[Visualizing Data with Python]()||
-|2020-12-07|Revision Week||
-|2020-12-14|[Project: Covid-19]()|[Homework 3]() Due|
-|2020-12-21|[Project: Taiwan Election]()||
-|2020-12-28|[Project: Stock Investment]()|
-|2020-01-04|Revision Week||
+|2020-12-07|Reading Period||
+|2020-12-14|[Project: Covid-19(TBD)]()|[Homework 3]() Due|
+|2020-12-21|[Project: Taiwan Election(TBD)]()||
+|2020-12-28|[Project: Stock Investment(TBD)]()|
+|2020-01-04|Reading Period||
 |2020-01-11|[Final]()|[Homework 4]() Due|
 
 How to transform `slides.html` to PDF format?
