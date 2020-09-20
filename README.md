@@ -29,6 +29,11 @@ We will probably rely on Python's `random` module to draw if there are too many 
 - Schedule: Monday, 09:10-12:00
 - Location: 圖書館校區綜合大樓 5 樓 508 教室
 
+## Environment
+
+- Use your own [GitHub](https://github.com/) account to log in our [lab](https://lab.datainpoint.com)
+- In case our lab reaches its upper limit, kindly activate a non-persistent [BinderHub](https://mybinder.org/v2/gh/datainpoint/data-science-binder/data-science-python-3-8-5) instead
+
 ## Grading Policy
 
 |Task|Percentage|
@@ -44,8 +49,8 @@ We will probably rely on Python's `random` module to draw if there are too many 
 
 |Date|Slides|Homework Due|
 |----|------|------------|
-|2020-09-14|[Introduction](https://yaojenkuo.io/ntnu-fall-2020/00-introduction.slides.html)||
-|2020-09-21|[Getting Started with Python]()||
+|2020-09-14|[Introduction](slides/00-introduction.slides.html)||
+|2020-09-21|[Getting Started with Python](slides/01-getting-started-with-python.slides.html)||
 |2020-09-28|[Data Structures and Iterations]()||
 |2020-10-05|Reading Period||
 |2020-10-12|[Functions]()|[Homework 1]() Due|
