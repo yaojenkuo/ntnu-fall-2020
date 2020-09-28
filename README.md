@@ -51,7 +51,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 |----|------|------------|
 |2020-09-14|[Introduction](slides/00-introduction.slides.html)||
 |2020-09-21|[Getting Started with Python](slides/01-getting-started-with-python.slides.html)||
-|2020-09-28|[Data Structures and Iterations](slides/02-data-wrangling-with-python.slides.html)||
+|2020-09-28|[Data Wrangling with Python](slides/02-data-wrangling-with-python.slides.html)||
 |2020-10-05|Reading Period||
 |2020-10-12|Functions|[Homework 1](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-getting-started-with-python&urlpath=tree%2Fexercise-getting-started-with-python%2Fexercises.ipynb&branch=master) Due|
 |2020-10-19|Classes||
