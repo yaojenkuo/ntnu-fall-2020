@@ -28,6 +28,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 - Contact me: <yaojenkuo@ntu.edu.tw>
 - Schedule: Monday, 09:10-12:00
 - Location: 圖書館校區綜合大樓 5 樓 508 教室
+- Student list: <https://docs.google.com/spreadsheets/d/168sSz3MqW5jNRCZ3lSp7MVYW2TymysIDZsUdugFIhvc/edit?usp=sharing>
 
 ## Environment
 
