@@ -39,7 +39,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 
 |Task|Percentage|
 |----|----------|
-|Midterm|25%|
+|[Midterm](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-ntnu-fall-2020&urlpath=tree%2Fmidterm-ntnu-fall-2020%2Fmidterm.ipynb&branch=main)|25%|
 |Final|35%|
 |[Homework 1](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-getting-started-with-python&urlpath=tree%2Fexercise-getting-started-with-python%2Fexercises.ipynb&branch=master)|10%|
 |[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-data-wrangling-with-python&urlpath=tree%2Fexercise-data-wrangling-with-python%2Fexercises.ipynb&branch=master)|10%|
@@ -58,7 +58,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 |2020-10-19|[Defining Classes with Python](slides/04-defining-classes-with-python.slides.html)||
 |2020-10-26|[Creating Modules and Libraries with Python](slides/05-creating-modules-and-libraries-with-python.slides.html)||
 |2020-11-02|Reading Period||
-|2020-11-09|Midterm|[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-data-wrangling-with-python&urlpath=tree%2Fexercise-data-wrangling-with-python%2Fexercises.ipynb&branch=master) Due|
+|2020-11-09|[Midterm](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-ntnu-fall-2020&urlpath=tree%2Fmidterm-ntnu-fall-2020%2Fmidterm.ipynb&branch=main)|[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-data-wrangling-with-python&urlpath=tree%2Fexercise-data-wrangling-with-python%2Fexercises.ipynb&branch=master) Due|
 |2020-11-16|Importing Data with Python||
 |2020-11-23|Manipulating Data with Python||
 |2020-11-30|Visualizing Data with Python||
