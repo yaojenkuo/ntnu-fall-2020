@@ -38,7 +38,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 ## Grading Policy
 
 |Task|Percentage|Note|
-|----|----------||
+|----|----------|----|
 |[Midterm](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-ntnu-fall-2020&urlpath=tree%2Fmidterm-ntnu-fall-2020%2Fmidterm.ipynb&branch=main)|25%||
 |Final|35%||
 |[Homework 1](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-getting-started-with-python&urlpath=tree%2Fexercise-getting-started-with-python%2Fexercises.ipynb&branch=master)|10%||
