@@ -67,7 +67,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 |2020-12-07|Reading Period||
 |2020-12-14|[DataFrame Wrangling with Pandas](slides/07-dataframe-wrangling-with-pandas.slides.html)|[HW3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-hw3-ntnu-fall-2020&urlpath=tree%2Fexercise-hw3-ntnu-fall-2020%2Fexercises.ipynb&branch=master) and [HW5](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-hw5-ntnu-fall-2020&urlpath=tree%2Fexercise-hw5-ntnu-fall-2020%2Fexercises.ipynb&branch=main) due|
 |2020-12-21|[DataFrame Wrangling with Pandas](slides/07-dataframe-wrangling-with-pandas.slides.html)||
-|2020-12-28|[Project: Taiwan Election](slides/08-project-taiwan-election-2020.slides.html)|HW4 and HW6|
+|2020-12-28|[Project: Taiwan Election](slides/08-project-taiwan-election-2020.slides.html)||
 |2020-01-04|Reading Period||
 |2020-01-11|Final|[HW 4](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-hw4-ntnu-fall-2020&urlpath=tree%2Fexercise-hw4-ntnu-fall-2020%2Fexercises.ipynb&branch=main) and [HW6](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-hw6-ntnu-fall-2020&urlpath=tree%2Fexercise-hw6-ntnu-fall-2020%2Fexercises.ipynb&branch=main) Due|
 
