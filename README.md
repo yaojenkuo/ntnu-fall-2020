@@ -40,7 +40,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 |Task|Percentage|Note|
 |----|----------|----|
 |[Midterm](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-ntnu-fall-2020&urlpath=tree%2Fmidterm-ntnu-fall-2020%2Fmidterm.ipynb&branch=main)|25%||
-|Final|35%||
+|[Final](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-final-ntnu-fall-2020&urlpath=tree%2Fexercise-final-ntnu-fall-2020%2Fexercises.ipynb&branch=main)|35%||
 |[Homework 1](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-getting-started-with-python&urlpath=tree%2Fexercise-getting-started-with-python%2Fexercises.ipynb&branch=master)|10%||
 |[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-data-wrangling-with-python&urlpath=tree%2Fexercise-data-wrangling-with-python%2Fexercises.ipynb&branch=master)|10%||
 |[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-hw3-ntnu-fall-2020&urlpath=tree%2Fexercise-hw3-ntnu-fall-2020%2Fexercises.ipynb&branch=master)|10%||
@@ -69,7 +69,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 |2020-12-21|[DataFrame Wrangling with Pandas](slides/07-dataframe-wrangling-with-pandas.slides.html)||
 |2020-12-28|[Project: Taiwan Election](slides/08-project-taiwan-election-2020.slides.html)||
 |2020-01-04|Reading Period||
-|2020-01-11|Final|[HW 4](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-hw4-ntnu-fall-2020&urlpath=tree%2Fexercise-hw4-ntnu-fall-2020%2Fexercises.ipynb&branch=main) and [HW6](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-hw6-ntnu-fall-2020&urlpath=tree%2Fexercise-hw6-ntnu-fall-2020%2Fexercises.ipynb&branch=main) Due|
+|2020-01-11|[Final](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-final-ntnu-fall-2020&urlpath=tree%2Fexercise-final-ntnu-fall-2020%2Fexercises.ipynb&branch=main)|[HW 4](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-hw4-ntnu-fall-2020&urlpath=tree%2Fexercise-hw4-ntnu-fall-2020%2Fexercises.ipynb&branch=main) and [HW6](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fexercise-hw6-ntnu-fall-2020&urlpath=tree%2Fexercise-hw6-ntnu-fall-2020%2Fexercises.ipynb&branch=main) Due|
 
 How to transform `slides.html` to PDF format?
 - Add `?print-pdf` at the end of `slides.html` making it `slides.html?print-pdf` and press enter
